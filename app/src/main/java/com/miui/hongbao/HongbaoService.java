@@ -14,6 +14,8 @@ import java.util.List;
 
 
 public class HongbaoService extends AccessibilityService {
+
+    /// aaaaa
     private AccessibilityNodeInfo mReceiveNode, mUnpackNode;
 
     private boolean mLuckyMoneyPicked, mLuckyMoneyReceived, mNeedUnpack, mNeedBack;
